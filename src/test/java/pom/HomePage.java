@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 public class HomePage extends BasePage {
 
         String titleHomepage = "imalittletester – Testing. With Java, Selenium, TestNG, Maven, Spring, IntelliJ and friends.";
-        By titleComicsLocator = By.id("menu-item-20082");
+        By titleComicsLocator = By.id("menu-item-2008");
 
 
     public HomePage(WebDriver driver){

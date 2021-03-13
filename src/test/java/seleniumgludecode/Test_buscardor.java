@@ -53,7 +53,7 @@ public class Test_buscardor {
 
         String url = driver.getCurrentUrl();
 
-        Assert.assertEquals("https://imalittletester.com/?s=Selenium6",url);
+        Assert.assertEquals("https://imalittletester.com/?s=Selenium",url);
 
 
 
