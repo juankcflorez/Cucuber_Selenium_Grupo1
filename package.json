@@ -1,0 +1,15 @@
+{
+  "name": "cucumber_selenium_grupo1",
+  "version": "1.0.0",
+  "description": "Report Test",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js"
+
+  },
+  "author": "Juan Camilo Cardenas",
+  "license": "ISC",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^1.18.0"
+  }
+}
